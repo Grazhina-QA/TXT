@@ -1,0 +1,18 @@
+1. SDLC, STLC
+2. HTTP
+3. JSON, XML
+4. API, POSTMAN (JS)
+5. Charles, Fiddler
+6. DevTools 
+7. VPN
+8. Mobile Testing [A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DHTTP sniffering using Charles and Fiddler[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+9. iOS and Android Guidelines
+10. Android Studio
+11. ADB
+12. Proxy and VPN settings on iOS and Android
+13. Terminal (Linux)
+14. Bash Script
+15. SQL
+16. Redis
+17.Jmeter
+18. Scrum
