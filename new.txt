@@ -1,5 +1,5 @@
-First name: Grazhina
-Last name: Rameika
+Name: Grazhina
+Surname: Rameika
 Age: 35
 Pets: many cats and 2 dogs
 Disered salary: 5000$ ;-)
