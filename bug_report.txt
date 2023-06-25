@@ -1,4 +1,4 @@
-Title: The text on the page "Compliance & Legals" is displayed in bold and underlined when switching to AR
+Title: The text on the page "Compliance and Legals" is displayed in bold and underlined when switching to AR
 
 Steps:  1. Navigate to capital.com
         2. Hover the cursor over Menu section [More]
@@ -6,11 +6,11 @@ Steps:  1. Navigate to capital.com
         4. Select language AR
         5. Scroll down"
 
-Expected Result: "The text in the paragraphs on the page ""Compliance & Legals"" has the same font when switching to AR
-The text is wrapped in <p>"
+Expected Result: The text in the paragraphs on the page "Compliance and Legals" has the same font when switching to AR
+The text is wrapped in (p)
 
-Actual Result: "The text on the page ""Compliance & Legals"" is in bold and underlined when switching to AR
-The text is wrapped in <u> and <strong>"
+Actual Result: The text on the page "Compliance & Legals" is in bold and underlined when switching to AR
+The text is wrapped in (u> and (strong)
 
 License: ALL
 
