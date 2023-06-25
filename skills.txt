@@ -1,7 +1,7 @@
 1. SDLC, STLC
 2. HTTP
 3. JSON, XML
-4. API, POSTMAN (JS)
+4. API, POSTMAN
 5. Charles, Fiddler
 6. DevTools 
 7. VPN
