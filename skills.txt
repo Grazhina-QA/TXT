@@ -5,7 +5,7 @@
 5. Charles, Fiddler
 6. DevTools 
 7. VPN
-8. Mobile Testing [A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DHTTP sniffering using Charles and Fiddler[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+8. Mobile Testing sniffering using Charles and Fiddler 
 9. iOS and Android Guidelines
 10. Android Studio
 11. ADB
