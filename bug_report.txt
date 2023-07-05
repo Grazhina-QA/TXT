@@ -1,17 +1,27 @@
-Title: The text on the page "Compliance and Legals" is displayed in bold and underlined when switching to AR
+ID:		274 
 
-Steps:  1. Navigate to capital.com
-        2. Hover the cursor over Menu section [More]
-        3. Click on the Menu item [Compliance and Legals]
-        4. Select language AR
-        5. Scroll down"
+Severity:	Trivial 
 
-Expected Result: The text in the paragraphs on the page "Compliance and Legals" has the same font when switching to AR
-The text is wrapped in (p)
+Enviroment:	Win 11, Chrome 113
+		Win 10 pro, Chrome 113, 114
+		macOS 13.3.1, Safari 16.4
+		Xiaomi 11T, Android 13, Chrome 110
+		iPhone 12, Safari 16.5, Chrome 114
+		iphone 11, Safari 16.5, Chrome 114
 
-Actual Result: The text on the page "Compliance and Legals" is in bold and underlined when switching to AR
-The text is wrapped in (u> and (strong)
+Title:		Empty image-holder in menu section [Education] in block [Trading psychology guide]
 
-License: ALL
+Steps:		1. Navigate to Capital.com
+		2. Hover to menu section [Education]
+		3. Click the menu item [Trading psychology guide]
+		4. Scroll down to the block "Hindsight Bias"
+		5. Scroll down to the block "Recency Bias"
+		6. Scroll down to the block "Endowment effect"
 
-Role (unregistered, unauthorized, authorized, All): ALL
+Expected result:	In block [Trading psychology guide] image-holders contain a picture
+
+Actual result:		In block [Trading psychology guide] image-holder is empty
+
+License:	All
+
+Role:		All 
